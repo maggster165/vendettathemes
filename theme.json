@@ -22,9 +22,6 @@
         "TEXT_MUTED": [
             "#b790fc"
         ],
-        "TEXT_LINK": [
-            "#9e66ff"
-        ],
         "INTERACTIVE_NORMAL": [
             "#c3a1ff"
         ],
@@ -47,7 +44,7 @@
             "#51287d"
         ],
         "BACKGROUND_TERTIARY": [
-            "#110D0A"
+            "#310b59"
         ],
         "BACKGROUND_ACCENT": [
             "#503E38"
@@ -99,7 +96,7 @@
             "#9E8376"
         ],
         "TEXT_LINK": [
-            "#9E8376"
+            "#9e66ff"
         ],
         "TEXT_DANGER": [
             "#503E38"
