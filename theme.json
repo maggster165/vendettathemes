@@ -29,7 +29,7 @@
             "#9860f7"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#daaaf2"
+            "#ffffff"
         ],
         "INTERACTIVE_MUTED": [
             "#6a49a3"
@@ -93,7 +93,7 @@
             "#724db0"
         ],
         "CHANNELS_DEFAULT": [
-            "#ffffff"
+            "#daaaf2"
         ],
         "TEXT_LINK": [
             "#9e66ff"
