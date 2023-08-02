@@ -1,0 +1,154 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="2299.6">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; -webkit-text-stroke: #000000}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; -webkit-text-stroke: #000000; min-height: 14.0px}
+    span.s1 {font-kerning: none}
+  </style>
+</head>
+<body>
+<p class="p1"><span class="s1">{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>"name": “Maggie Purple“,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>"description": “Theme for connoisseurs of the color purple”,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>"authors": [</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">       </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"name": “maggie”,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"id": "330299657458679821"</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">          </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>],</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>"semanticColors": {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"HEADER_PRIMARY": [</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"#EFDFD7"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>],</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"HEADER_SECONDARY": [</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"#EFDFD7"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>],</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"TEXT_NORMAL": [</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"#E7D6CE"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>],</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"TEXT_MUTED": [</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"#A07D6C"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>],</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"INTERACTIVE_NORMAL": [</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"#EFDFD7"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>],</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"INTERACTIVE_HOVER": [</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"#503E38"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>],</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"INTERACTIVE_ACTIVE": [</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"#EFDFD7"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>],</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"INTERACTIVE_MUTED": [</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"#957261"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>],</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"BACKGROUND_PRIMARY": [</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"#110D0A"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>],</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"BACKGROUND_SECONDARY": [</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"#15100d"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>],</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"BACKGROUND_SECONDARY_ALT": [</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"#15100d"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>],</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"BACKGROUND_TERTIARY": [</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"#110D0A"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>],</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"BACKGROUND_ACCENT": [</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"#503E38"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>],</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"BACKGROUND_FLOATING": [</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"#15100d"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>],</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"BACKGROUND_MOBILE_PRIMARY": [</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"#15100d"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>],</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"BACKGROUND_MOBILE_SECONDARY": [</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"#15100d"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>],</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"BACKGROUND_NESTED_FLOATING": [</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"#15100d"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>],</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">       </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"BACKGROUND_MESSAGE_HOVER": [</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"#322720"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>],</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"BACKGROUND_MODIFIER_HOVER": [</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"#322720"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>],</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"BACKGROUND_MODIFIER_ACTIVE": [</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"#3a2c26"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>],</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"BACKGROUND_MODIFIER_SELECTED": [</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"#372d2b"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>],</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"BACKGROUND_MODIFIER_ACCENT": [</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"503E38"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>],</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"SCROLLBAR_THIN_THUMB": [</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"#26273b"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>],</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"SCROLLBAR_THIN_TRACK": [</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"transparent"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>],</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"SCROLLBAR_AUTO_THUMB": [</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"#DAC0B3"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>],</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"SCROLLBAR_AUTO_TRACK": [</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"#DAC0B3"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>],</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"CHANNELTEXTAREA_BACKGROUND": [</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"#372E29"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>],</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"CHANNELS_DEFAULT": [</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"#9E8376"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>],</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"TEXT_LINK": [</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"#9E8376"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>],</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"TEXT_DANGER": [</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"#503E38"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>],</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"KEYBOARD": [</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"#110D0A"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>],</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"CHANNEL_ICON": [</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"#EFDFD7"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>],</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"CHAT_BACKGROUND": [</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"#110D0A"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>]</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>"rawColors": {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"PRIMARY_500": "#9E8376",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"PRIMARY_100": "#EFDFD7",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"PRIMARY_200": "#F4EAE5",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"PRIMARY_300": "#9E8376",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"PRIMARY_360": "#9E8376",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"PRIMARY_400": "#9E8376",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"PRIMARY_600": "#100D0A",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"PRIMARY_630": "#1B1411",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"PRIMARY_660": "#1B1411",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"PRIMARY_700": "#100D0A",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"PRIMARY_800": "#100D0A",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"BRAND_260": "#957261",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"BRAND_360": "#D0A996",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"BRAND_500": "#957261",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"BRAND_560": "#D0A996",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"YELLOW_300": "#957261",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"GREEN_600": "#EFDFD7",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"RED_400": "#9E8376",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"WHITE_500": "#EFDFD7",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"GREEN_360": "#503E38"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>"spec": 2</span></p>
+<p class="p1"><span class="s1">}</span></p>
+</body>
+</html>
