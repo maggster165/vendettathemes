@@ -1,5 +1,5 @@
 {
-    "name": "Maggie's Purple",
+    "name": "Maggie's Purple (Testing)",
     "description": "Theme for people who like the color purple",
     "authors": [
        
@@ -112,8 +112,11 @@
         ]
     },
     "rawColors":{
+        "PRIMARY_100": [
+            "#d0a8ed"
+        ]
         "PRIMARY_600": [
-        "#370d57"
+            "#370d57"
     ]
     },
     "spec": 2
