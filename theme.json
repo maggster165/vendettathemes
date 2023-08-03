@@ -113,24 +113,12 @@
     },
     "rawColors":{
 
-        "PRIMARY_100": [
-            "#d0a8ed"
-        ],
-        "PRIMARY_200": [
-            "#ffffff"
-        ],
-        "PRIMARY_300": [
-            "#d4aaf2"
-        ],
-        "PRIMARY_360": [
-            "#d3a5f0"
-        ],
-        "PRIMARY_400": [
-            "#7b26bd"
-        ],
-        "PRIMARY_600": [
-            "#370d57"
-        ]
+        "PRIMARY_100": "#d0a8ed",
+        "PRIMARY_200": "#ffffff",
+        "PRIMARY_300": "#d4aaf2",
+        "PRIMARY_360": "#d3a5f0",  
+        "PRIMARY_400": "#7b26bd",
+        "PRIMARY_600": "#370d57"
        
     },
     "spec": 2
