@@ -119,7 +119,8 @@
         "PRIMARY_630": "#6c3a91",
         "PRIMARY_660": "#421f5c",
         "PRIMARY_700": "#7d33b5",
-        "PRIMARY_800": "#270540"
+        "PRIMARY_800": "#270540",
+        "BRAND_500": "#882deb"
        
     },
     "spec": 2
