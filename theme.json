@@ -1,5 +1,5 @@
 {
-    "name": "Maggie's Purple",
+    "name": "Maggie's Purple (Testing)",
     "description": "Theme for people who like the color purple",
     "authors": [
        
@@ -98,9 +98,6 @@
         "TEXT_LINK": [
             "#9e66ff"
         ],
-        "TEXT_DANGER": [
-            "#503E38"
-        ],
         "KEYBOARD": [
             "#110D0A"
         ],
@@ -112,9 +109,18 @@
         ]
     },
     "rawColors":{
-        "PRIMARY_600": [
-        "#370d57"
-    ]
+
+        "PRIMARY_100": "#ffffff",
+        "PRIMARY_200": "#ffffff",
+        "PRIMARY_300": "#d4aaf2",
+        "PRIMARY_360": "#d3a5f0",  
+        "PRIMARY_400": "#7b26bd",
+        "PRIMARY_600": "#370d57",
+        "PRIMARY_630": "#6c3a91",
+        "PRIMARY_660": "#421f5c",
+        "PRIMARY_700": "#7d33b5",
+        "PRIMARY_800": "#270540"
+       
     },
     "spec": 2
 }
