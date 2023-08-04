@@ -125,7 +125,7 @@
     },
     "plus": {
         "version": 0,
-        "unreadBadgeColor": "#822cf2",
+        "unreadBadgeColor": "#a565f7",
         "mentionLineColor": "#a96df7",
         "customOverlays": true
     },
