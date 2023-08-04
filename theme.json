@@ -123,5 +123,11 @@
         "BRAND_500": "#8f2ff5"
        
     },
+    "plus": {
+        "version": 0,
+        "unreadBadgeColor": "#822cf2",
+        "mentionLineColor": "#a96df7",
+        "customOverlays": true
+    }
     "spec": 2
 }
