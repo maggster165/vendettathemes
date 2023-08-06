@@ -50,13 +50,13 @@
             "#2f0e52"
         ],
         "BACKGROUND_FLOATING": [
-            "#733dd1"
+            "#553c80"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#331d59"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#552b9e"
+            "#391d6b"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#15100d"
@@ -122,6 +122,13 @@
         "PRIMARY_800": "#270540",
         "BRAND_500": "#8f2ff5"
        
+    },
+    "plus": {
+        "version": 0,
+        "unreadBadgeColor": "#a565f7",
+        "mentionLineColor": "#a96df7",
+        "customOverlays": true,
+        "iconpack":"rosiecord-plumpy"
     },
     "spec": 2
 }
