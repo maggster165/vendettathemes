@@ -1,6 +1,6 @@
 {
     "name": "Maggie's Purple",
-    "description": "Theme for people who like the color purple",
+    "description": "Theme for people who like the color purple (Version 2.0)",
     "authors": [
        
         {
@@ -127,7 +127,8 @@
         "version": 0,
         "unreadBadgeColor": "#a565f7",
         "mentionLineColor": "#a96df7",
-        "customOverlays": true
+        "customOverlays": true,
+        "iconpack":"rosiecord-plumpy"
     },
     "spec": 2
 }
